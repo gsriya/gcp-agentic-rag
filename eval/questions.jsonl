@@ -1,0 +1,10 @@
+{"question": "How long must passwords be?", "expected_source": "it_security_policy.md", "must_contain": ["14"]}
+{"question": "How quickly must a lost laptop be reported?", "expected_source": "it_security_policy.md", "must_contain": ["2 hours"]}
+{"question": "Can customer payment data be stored on a laptop?", "expected_source": "it_security_policy.md", "must_contain": ["Restricted"]}
+{"question": "Where do I report a phishing email and how fast?", "expected_source": "it_security_policy.md", "must_contain": ["30 minutes"]}
+{"question": "What is the hotel limit per night in London?", "expected_source": "travel_expenses_policy.md", "must_contain": ["180"]}
+{"question": "What is the daily meal allowance when travelling?", "expected_source": "travel_expenses_policy.md", "must_contain": ["45"]}
+{"question": "Within how many days must expense claims be submitted?", "expected_source": "travel_expenses_policy.md", "must_contain": ["30"]}
+{"question": "What is the uptime SLA of the Enterprise support plan?", "expected_source": "support_plans.csv", "must_contain": ["99.99"]}
+{"question": "How much does the Business support plan cost per month?", "expected_source": "support_plans.csv", "must_contain": ["199"]}
+{"question": "Which support plan includes a dedicated engineer?", "expected_source": "support_plans.csv", "must_contain": ["Enterprise"]}

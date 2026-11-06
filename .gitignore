@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+chroma_db/
+eval/report.json
+.env
+.pytest_cache/

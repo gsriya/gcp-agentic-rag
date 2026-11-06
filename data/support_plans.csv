@@ -1,0 +1,4 @@
+plan,monthly_price_gbp,response_time_hours,uptime_sla_percent,channels
+Basic,49,24,99.5,email
+Business,199,4,99.9,email; chat
+Enterprise,899,1,99.99,email; chat; phone; dedicated engineer
